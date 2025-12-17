@@ -5,8 +5,8 @@ export async function POST() {
     items: [
       "Emma → Draft onboarding document → Deadline: 20 June",
       "Rahul → Analyze support tickets → Deadline: Not specified",
-      "Marketing → Review changes → After approval"
+      "Marketing → Review changes → After approval",
     ],
-    mode: "mock"
+    mode: "mock",
   });
 }
